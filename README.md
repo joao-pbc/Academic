@@ -1,2 +1,2 @@
 # Academic
-My university activities
+A collection of my personal and academic studies
